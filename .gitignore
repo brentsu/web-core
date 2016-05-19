@@ -1,0 +1,19 @@
+.idea
+target
+.sass-cache
+node_modules
+.DS_Store
+.settings
+.classpath
+.project
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+*.log
+/recruitme-coming-soon/src/main/webapp/assets/sass/.sass-cache
+/recruitme-site/src/main/webapp/assets/sass/.sass-cache
+avatar
+worksample
+seajs-config.js
+**/sea-modules/app
